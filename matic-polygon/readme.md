@@ -3,5 +3,5 @@
 ## **Team Name : MANIMOH**
 ## **MEMBER: Chika & Ilfa Wiana**
 ## **Live dApp Website [https://hujan-dapp.herokuapp.com](https://hujan-dapp.herokuapp.com)**
-## **[original quick VIDEO of submission of dApp](https://youtu.be/AMGCmSqAso4)**
+## **[VIDEO DAPP SUBMISSION](https://youtu.be/AMGCmSqAso4)**
 
