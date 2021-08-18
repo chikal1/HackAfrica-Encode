@@ -2,4 +2,5 @@
 
 ## **Chalenges: SUSHI (easy challenges) ~ POLYGON (build any dapp on polygon)**
 
-## TEAM NAME: MANIMOH
+## **Team Name : MANIMOH**
+## **MEMBER: Chika & Ilfa Wiana**
