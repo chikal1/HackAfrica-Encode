@@ -1,0 +1,20 @@
+{
+  "name": "hujan_contracts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "compile": "truffle compile",
+    "test": "truffle test",
+    "coverage": "truffle run coverage --network coverage"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.4.0",
+    "@openzeppelin/test-helpers": "^0.5.10",
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "ko-sleep": "^1.0.3",
+    "solidity-coverage": "^0.7.15"
+  }
+}
