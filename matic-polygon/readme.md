@@ -1,3 +1,7 @@
-### Donate to Quality Post/Content Post
-### Torrent Integrations
-### Full Comment and Comment Voting System
+## **HUJAN - Censorship Resistant Social on Polygon Platform**
+## **Deployed Address - 0x26Afa9CC330c044ADCC6651ecc2abAb858df14d0
+## **Team Name : MANIMOH
+## **MEMBER: Chika & Lora
+##### Live dApp Website [hujan.netlify.app](hujan.netlify.app)
+##### [original quick VIDEO of submission of dApp](https://youtu.be/AMGCmSqAso4)
+
